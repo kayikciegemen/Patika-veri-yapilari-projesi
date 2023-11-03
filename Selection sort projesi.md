@@ -1,6 +1,6 @@
 # Patika Veri Yapıları ve Algoritmalar dersi projeleri 
 
-## Proje 1 
+## Proje 1 (Selection sort)
 
 [22,27,16,2,18,6] -> Insertion Sort
 
